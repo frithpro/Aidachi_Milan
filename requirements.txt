@@ -1,1 +1,1 @@
-aiogram==2.25.1  # Cambia la versión según sea necesario
+aiogram==2.25.1
